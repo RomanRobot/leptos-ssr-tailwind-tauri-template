@@ -16,7 +16,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "template",
+        "title": "{{project-name}}",
         "width": 800,
         "height": 600
       }
