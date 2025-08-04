@@ -5,7 +5,7 @@ Simple template to use SSR leptos with Tauri for iOS, Android, Windows, Mac, Lin
 To get started just use [cargo generate](https://crates.io/crates/cargo-generate) with this repo.
 
 ```bash
-cargo generate --git https://github.com/Alt-iOS/tailwind-leptos-tauri-template.git
+cargo generate --git https://github.com/RomanRobot/leptos-ssr-tailwind-tauri-template.git
 ```
 
 Thanks to the Leptos and Tauri teams for the amazing work.
