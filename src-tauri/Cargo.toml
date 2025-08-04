@@ -17,5 +17,6 @@ serde_json = "*"
 #tauri-plugin-devtools = { git = "https://github.com/crabnebula-dev/devtools", version = "2.0.0-beta.0" }
 
 [features]
+mobile = []
 #default = ["custom-protocol"]
 custom-protocol = ["tauri/custom-protocol"]
